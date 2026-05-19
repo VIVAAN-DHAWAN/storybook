@@ -1,3 +1,7 @@
+## 10.4.1
+
+- CLI: Run `npx expo install --fix` after init for Expo projects - [#34803](https://github.com/storybookjs/storybook/pull/34803), thanks @ndelangen!
+
 ## 10.4.0
 
 > _AI-assisted setup, change-aware review, and stronger framework support_
